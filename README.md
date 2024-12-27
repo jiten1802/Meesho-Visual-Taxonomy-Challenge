@@ -10,6 +10,8 @@ Technologies Used
 
 Setup Instructions
 
+Dataset
+
 Data Processing
 
 Feature Extraction
@@ -61,6 +63,9 @@ Install Dependencies:
 Install required libraries using pip:
 
 pip install -r requirements.txt
+
+### Dataset
+https://www.kaggle.com/competitions/visual-taxonomy/data
 
 ### Attribute Encoding:
 
